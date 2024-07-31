@@ -1,0 +1,7 @@
+E:\Programming\C#\Pseudo3D\obj\Debug\Pseudo3D.csproj.AssemblyReference.cache
+E:\Programming\C#\Pseudo3D\obj\Debug\Pseudo3D.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Pseudo3D\bin\Debug\Pseudo3D.exe.config
+E:\Programming\C#\Pseudo3D\bin\Debug\Pseudo3D.exe
+E:\Programming\C#\Pseudo3D\bin\Debug\Pseudo3D.pdb
+E:\Programming\C#\Pseudo3D\obj\Debug\Pseudo3D.exe
+E:\Programming\C#\Pseudo3D\obj\Debug\Pseudo3D.pdb
